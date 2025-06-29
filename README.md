@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Amal Verma
 
-<!--
-**Amal-Verma/Amal-Verma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I’m a developer building autonomous AI systems, and I break down complex ideas into executable code.
 
-Here are some ideas to get you started:
+## 🛠️ Projects
+- ⚡ [PowerPoint Generator](https://github.com/Amal-Verma/PPT-genarator) – Creates .pptx slides from prompts using Gemini & Next.js
+- 🧠 [Auto Labeler](https://github.com/Amal-Verma/AutoLabeler) – BERT-based ensemble for pseudo-labeling unlabeled data
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![Amal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Amal-Verma&show_icons=true)
+
+## 📫 Contact
+[LinkedIn](https://linkedin.com/in/amal-verma) • [GitHub](https://github.com/Amal-Verma) • amalvermaster@gmail.com
